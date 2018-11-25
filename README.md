@@ -7,3 +7,12 @@ $ python manage.py runserver
 ```
 
 Browse to - http://127.0.0.1:8000/
+
+or, http://127.0.0.1:8000/admin
+
+```
+admin: shahjalalh
+pass: admin1234
+```
+
+Happy coding. :)
