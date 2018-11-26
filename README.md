@@ -11,6 +11,7 @@ Browse to - http://127.0.0.1:8000/
 or, http://127.0.0.1:8000/admin
 
 ```
+(only works, if use db.sqlite)
 admin: shahjalalh
 pass: admin1234
 ```
